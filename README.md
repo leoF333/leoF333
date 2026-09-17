@@ -1,4 +1,4 @@
-# Léo Flack
+# Leo Flack
 
 Part III Mathematics at the University of Cambridge, after the Mathematics & Physics track at École Polytechnique. My interests span statistical physics, deep learning theory, computational neuroscience and quantum information.
 
