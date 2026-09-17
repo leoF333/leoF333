@@ -1,6 +1,6 @@
 # Léo Flack
 
-Mathematics, statistical physics and learning theory. École Polytechnique; incoming Part III Mathematics at the University of Cambridge (2026–2027), where I also plan to study quantum information.
+Part III Mathematics at the University of Cambridge, after the Mathematics & Physics track at École Polytechnique. My interests span statistical physics, deep learning theory, computational neuroscience and quantum information.
 
 I combine analytical models and numerical experiments to understand how microscopic structure produces collective behaviour.
 
@@ -13,4 +13,6 @@ I combine analytical models and numerical experiments to understand how microsco
 
 **Tools:** Python, NumPy, SciPy, PyTorch, Matplotlib; OCaml and Java.
 
-[Research website & CV](https://leo-flack.leo-flack01.chatgpt.site) · [LinkedIn](https://www.linkedin.com/in/leoflack/) · [Email](mailto:leo.flack01@gmail.com)
+**Work authorisation:** UK & EU.
+
+[Research website & CV](https://leo-flack.leo-flack01.chatgpt.site) · [LinkedIn](https://www.linkedin.com/in/leoflack/) · [Email](mailto:lhf31@cam.ac.uk)
