@@ -15,4 +15,4 @@ I combine analytical models and numerical experiments to understand how microsco
 
 **Work authorisation:** UK & EU.
 
-[Research website & CV](https://leo-flack.leo-flack01.chatgpt.site) · [LinkedIn](https://www.linkedin.com/in/leoflack/) · [Email](mailto:lhf31@cam.ac.uk)
+[Research website & CV](https://leo-flack.leo-flack01.chatgpt.site) · [Google Scholar](https://scholar.google.com/citations?user=XdcAmPsAAAAJ&hl=fr&oi=ao) · [LinkedIn](https://www.linkedin.com/in/leoflack/) · [Email](mailto:lhf31@cam.ac.uk)
