@@ -4,7 +4,7 @@ Part III of the mathematical tripos at the University of Cambridge, after an edu
 
 ## Selected research
 
-- **[Delayed Non-Reciprocal Hopfield Networks](https://github.com/leoF333/hopfield-dynamics)** — memory-resolved bifurcations, delayed neural dynamics and extreme-value statistics. Research at the University of Chicago with Vincenzo Vitelli. Includes a runnable introduction, tests, research data and a claim-to-evidence register. Manuscript in preparation.
+- **[Delayed Non-Reciprocal Hopfield Networks](https://github.com/leoF333/hopfield-dynamics)** — memory-resolved bifurcations, delayed neural dynamics and extreme-value statistics. Research at the University of Chicago with Vincenzo Vitelli. Includes a runnable introduction, tests, research data, an internship report and a claim-to-evidence register.
 - **[Air-breathing plasma propulsion](https://github.com/leoF333/AtmopropX__0D-global-model)** — multi-species global plasma modelling for air-breathing electric propulsion. Co-author of the resulting [Physics of Plasmas article](https://doi.org/10.1063/5.0327675), 2026.
 - **[Statistical physics of autoencoders](https://leof333.github.io/research/learning.html)** — covariance spectra, asymmetric autoencoders and replica calculations, with Rémi Monasson at ENS Paris.
 - **[Amoebas and tropical geometry](https://leof333.github.io/research/tropical.html)** — collective proof-based essay at École Polytechnique, supervised by Omid Amini.
